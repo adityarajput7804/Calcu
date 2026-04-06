@@ -1,0 +1,15 @@
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.exe
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.deps.json
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.dll
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.pdb
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.sourcelink.json
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.dll
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\refint\WinFormsCalculator.dll
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.pdb
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\Users\Aditya\OneDrive\Desktop\exam\WinFormsCalculator\obj\Debug\net10.0-windows\ref\WinFormsCalculator.dll
