@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f0fe4730f2b0640d9a837862ae58d39c6cded3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cafe7a053e4bc128818735850d663be1fa7b2f30")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
